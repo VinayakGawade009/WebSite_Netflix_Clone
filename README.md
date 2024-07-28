@@ -1,2 +1,7 @@
 # WebSite_Netflix_Clone
-This is my first website. (Next Repos are coming soon)--> ... 
+This is my first website. I am realy very excited to develop more like this websites, learn more, create much more.
+Because " Ye Dil Mange More ! ^_^"
+
+(Next Repos are coming soon)--> ... 
+
+Author : Vinayak J. Gawade
